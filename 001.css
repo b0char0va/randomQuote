@@ -1,0 +1,66 @@
+.bg {
+    background-color: #3d2a14;
+    color: #3d2a14;
+}
+
+.container {
+    background-color: white;
+    width: 40%;
+    height: auto;
+    position: relative;
+    top:100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+p#para1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+
+p#para2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.quote-btn{
+    float: right;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+
